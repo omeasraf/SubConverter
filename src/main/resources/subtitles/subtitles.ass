@@ -1,0 +1,29 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Agent 327: Operation Barbershop
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,nanumgothic,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.72,0:00:15.11,Default,,0,0,0,,This is 327, I'm going in
+Dialogue: 0,0:00:15.30,0:00:16.07,Default,,0,0,0,,Good luck, Agent
+Dialogue: 0,0:00:43.00,0:00:45.09,Default,,0,0,0,,Hello! I was just...
+Dialogue: 0,0:00:45.28,0:00:46.55,Default,,0,0,0,,...admiring the art!
+Dialogue: 0,0:00:55.84,0:00:57.01,Default,,0,0,0,,Haircut?\NPlease!
+Dialogue: 0,0:00:58.66,0:01:00.97,Default,,0,0,0,,Such a lovely place you've got here
+Dialogue: 0,0:01:01.12,0:01:03.05,Default,,0,0,0,,Is it usually this empty?
+Dialogue: 0,0:01:26.24,0:01:27.59,Default,,0,0,0,,Just a trim, please!
+Dialogue: 0,0:01:27.80,0:01:28.43,Default,,0,0,0,,Boris...
+Dialogue: 0,0:01:28.48,0:01:30.47,Default,,0,0,0,,Agent 327!
+Dialogue: 0,0:02:41.80,0:02:44.03,Default,,0,0,0,,Chief, do you copy?\NI need backup!
+Dialogue: 0,0:02:44.40,0:02:47.21,Default,,0,0,0,,What are you doing?\NNo! I just wanted a haircut!
+Dialogue: 0,0:02:52.46,0:02:55.67,Default,,0,0,0,,Looks like we found our next recruit...
+Dialogue: 0,0:02:56.12,0:02:59.35,Default,,0,0,0,,Doctor, carry on with the procedure
+Dialogue: 0,0:02:59.84,0:03:02.33,Default,,0,0,0,,We have to make room for
+Dialogue: 0,0:03:02.84,0:03:05.31,Default,,0,0,0,,Agent 327!
